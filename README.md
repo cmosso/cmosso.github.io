@@ -1,27 +1,22 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cmosso/cmosso.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# **Hello** _world_!
 
-- Bulleted
-- List
+My name is Carson Mosso and this is a makeshift GitHub page. I am (slowly) trying to learn Git...
 
-1. Numbered
-2. List
+Likes:
+- COFFEE
+- PIZZA
+- PASTA
+- PEANUT BUTTER
 
-**Bold** and _Italic_ and `Code` text
+Dislikes:
+- artichokes
 
 [Link](url) and ![Image](src)
 ```
