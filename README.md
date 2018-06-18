@@ -1,13 +1,9 @@
 ## Welcome to GitHub Pages
 
-
-
-```markdown
-Syntax highlighted code block
-
 # **Hello** _world_!
 
-My name is Carson Mosso and this is a makeshift GitHub page. I am (slowly) trying to learn Git...
+My name is Carson Mosso and this is a makeshift GitHub page. 
+I am (slowly) trying to learn Git...
 
 Likes:
 - COFFEE
@@ -17,6 +13,13 @@ Likes:
 
 Dislikes:
 - artichokes
+
+
+
+```markdown
+Syntax highlighted code block
+
+
 
 [Link](url) and ![Image](src)
 ```
