@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # **Hello** _world_!
 
 My name is Carson Mosso and this is a makeshift GitHub page. 
