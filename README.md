@@ -3,14 +3,6 @@
 My name is Carson Mosso and this is a makeshift GitHub page. 
 I am (slowly) trying to learn Git...
 
-Likes:
-- COFFEE
-- PIZZA
-- PASTA
-- PEANUT BUTTER
-
-Dislikes:
-- artichokes
 
 
 
