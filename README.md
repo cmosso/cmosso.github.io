@@ -1,7 +1,3 @@
-# **Hello** _world_!
-
-
-
 ```markdown
 Syntax highlighted code block
 
