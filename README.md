@@ -7,6 +7,11 @@ association mining, manifold and graph learning, statistical methods for
 common and rare variant analysis, single-cell multi-omics methods, 
 and applications of deep neural networks such as GNNs.
 
+## Education
+- Ph.D. in Statistics from the University of North Carolina at Chapel Hill
+- B.S. in Physics from Clemson University
+- B.S. in Mathematical Sciences from Clemson University
+
 
 
 
