@@ -14,7 +14,7 @@ and applications of deep neural networks such as GNNs.
 
 
 
-![DALL-E generated precision medicine image](/cmosso.github.io/docs/assets/images/linked_in_banner.png)
+![DALL-E generated precision medicine image](/docs/assets/images/linked_in_banner.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
