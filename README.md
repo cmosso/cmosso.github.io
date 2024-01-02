@@ -1,3 +1,18 @@
+
+# Biosketch
+
+I am a Duke PROSPER T32 Postdoctoral Fellow in Jichun Xie's lab at Duke 
+University. My general research interests include latent variable models, 
+association mining, manifold and graph learning, statistical methods for 
+common and rare variant analysis, single-cell multi-omics methods, 
+and applications of deep neural networks such as GNNs.
+
+
+
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
