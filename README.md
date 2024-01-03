@@ -2,7 +2,6 @@
 *DALL-E generated image using human lungs, genetics, and machine learning as thematic prompts.*
 
 # Biosketch
-
 I am a Duke PROSPER T32 Postdoctoral Fellow in Jichun Xie's lab at Duke 
 University. My general research interests include latent variable models, 
 association mining, manifold and graph learning, statistical methods for 
@@ -15,11 +14,16 @@ I am currently focused on common and rare variant analysis of human genetics dat
 - Ph.D. in Statistics from the University of North Carolina at Chapel Hill
 - B.S. in Physics from Clemson University
 - B.S. in Mathematical Sciences from Clemson University
+- Budapest Semesters in Mathematics 
 
+# Experience
+- Duke PROSPER T32 Postdoctoral Fellow (December 2023 - present)
+- Duke Biostatistics Postdoctoral Associate (August 2023 - December 2023)
+- Research Internship at Genentech (May 2022 - August 2022)
+- UNC Chapel Hill Graduate Research and Teaching Assistant in Statistics (August 2017 - August 2023)
 
 
 # Publications
-
 - Dellon ES, Tsai YS, Coffey AR, Bodwin K, Sninsky JA, **Mosso CN**, He TM, O’Connor KA, Selitsky SR, Nobel AB, Parker JS. Pre-treatment differential correlation of gene expression and response to topical steroids in eosinophilic esophagitis. Diseases of the Esophagus. 2023 Apr;36(4):doac071.
 
 - Landis JT, Tuck R, Pan Y, **Mosso CN**, Eason AB, Moorad R, Marron JS, Dittmer DP. Evidence for multiple subpopulations of herpesvirus-latently infected cells. MBio. 2022 Feb 22;13(1):e03473-21.
