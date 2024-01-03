@@ -2,13 +2,14 @@
 *DALL-E generated image using human lungs, genetics, and machine learning as thematic prompts.*
 
 # Biosketch
-I am a Duke PROSPER T32 Postdoctoral Fellow in Jichun Xie's lab at Duke 
-University. My general research interests include latent variable models, 
+I am a Duke PROSPER T32 Postdoctoral Fellow in Jichun Xie's lab [(lab website)](https://jichunxie.github.io/index.html) 
+at Duke University. My general research interests include latent variable models, 
 association mining, manifold and graph learning, statistical methods for 
 common and rare variant analysis, single-cell multi-omics methods, 
 and applications of deep neural networks such as GNNs.
 
-I am currently focused on common and rare variant analysis of human genetics data to study Interstitial Lung Diesease (ILD).
+## Current Research Focus
+I am currently focused on common and rare variant analysis of human genetics data to study Interstitial Lung Diesease (ILD). This research is supported by the Duke PROSPER T32 training grant [(program website)](https://medicine.duke.edu/education-and-training/fellowship-programs/pulmonary-allergy-and-critical-care-medicine/t32-program). 
 
 # Education
 - Ph.D. in Statistics from the University of North Carolina at Chapel Hill
