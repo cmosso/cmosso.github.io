@@ -1,3 +1,5 @@
+![DALL-E generated precision medicine image](/docs/assets/images/DALL-E_precision_medicine_background_image.png)
+*DALL-E generated image using human lungs, genetics, and machine learning as thematic prompts.*
 
 # Biosketch
 
@@ -14,7 +16,7 @@ and applications of deep neural networks such as GNNs.
 
 
 
-![DALL-E generated precision medicine image](/docs/assets/images/linked_in_banner.png)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
