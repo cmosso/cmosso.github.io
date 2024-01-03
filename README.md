@@ -9,22 +9,19 @@ association mining, manifold and graph learning, statistical methods for
 common and rare variant analysis, single-cell multi-omics methods, 
 and applications of deep neural networks such as GNNs.
 
-## Education
+I am currently focused on common and rare variant analysis of human genetics data to study Interstitial Lung Diesease (ILD).
+
+# Education
 - Ph.D. in Statistics from the University of North Carolina at Chapel Hill
 - B.S. in Physics from Clemson University
 - B.S. in Mathematical Sciences from Clemson University
 
 
 
+# Publications
 
+- Dellon ES, Tsai YS, Coffey AR, Bodwin K, Sninsky JA, **Mosso CN**, He TM, O’Connor KA, Selitsky SR, Nobel AB, Parker JS. Pre-treatment differential correlation of gene expression and response to topical steroids in eosinophilic esophagitis. Diseases of the Esophagus. 2023 Apr;36(4):doac071.
 
+- Landis JT, Tuck R, Pan Y, **Mosso CN**, Eason AB, Moorad R, Marron JS, Dittmer DP. Evidence for multiple subpopulations of herpesvirus-latently infected cells. MBio. 2022 Feb 22;13(1):e03473-21.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cmosso/cmosso.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Oberheide J, Mlynczak MG, **Mosso CN**, Schroeder BM, Funke B, Maute A. Impact of tropospheric tides on the nitric oxide 5.3 μm infrared cooling of the low‐latitude thermosphere during solar minimum conditions. Journal of Geophysical Research: Space Physics. 2013 Nov;118(11):7283-93.
