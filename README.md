@@ -1,7 +1,7 @@
 ![DALL-E generated precision medicine image](/docs/assets/images/DALL-E_precision_medicine_background_image.png)
 *DALL-E generated image using human lungs, genetics, and machine learning as thematic prompts.*
 
-[LinkedIn website](https://www.linkedin.com/in/carson-mosso-8a949a249/)
+[LinkedIn Profile Page](https://www.linkedin.com/in/carson-mosso-8a949a249/)
 
 # Biosketch
 I am a Duke PROSPER T32 Postdoctoral Fellow in Jichun Xie's lab [(lab website)](https://jichunxie.github.io/index.html) 
@@ -10,7 +10,7 @@ association mining, manifold and graph learning, statistical methods for
 common and rare variant analysis, single-cell multi-omics methods, 
 and applications of deep neural networks such as GNNs.
 
-## Current Research Focus
+### Current Research Focus
 I am currently focused on common and rare variant analysis of human genetics data to study Interstitial Lung Diesease (ILD). This research is supported by the Duke PROSPER T32 training grant [(program website)](https://medicine.duke.edu/education-and-training/fellowship-programs/pulmonary-allergy-and-critical-care-medicine/t32-program). 
 
 # Education
